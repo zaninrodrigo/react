@@ -1,4 +1,4 @@
-# Ecommerce Online
+# Boom Burger - Ecommerce
 
 Este proyecto fue creado con:
 - ReactJS
