@@ -19,7 +19,8 @@ const ItemListContainer = ({ greeting }) => {
         .then((data) => setProducts(data))
         .catch((error) => console.warn(error))
     }
-  }, [categoryId])
+  }, [categoryId]);
+
 
   return (
     <Container>

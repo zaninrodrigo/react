@@ -1,4 +1,5 @@
-.itemList {
+.ItemList {
     margin-top: 64px; 
     display: flex;
+    padding: 10px;
   }

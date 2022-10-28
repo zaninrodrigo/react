@@ -13,8 +13,9 @@ const NavBar = () => {
           <Nav.Link as={Link} to='/'>
               Home
           </Nav.Link>
-          <Nav.Link as={Link} to='/category/carne'>Con Carne</Nav.Link>
-          <Nav.Link as={Link} to='/category/vegetariana'>Vegetariana</Nav.Link>
+          <Nav.Link as={Link} to='/category/hamburguesa'>Hamburguesa</Nav.Link>
+          <Nav.Link as={Link} to='/category/papas'>Papas Fritas</Nav.Link>
+          <Nav.Link as={Link} to='/category/gaseosa'>Gaseosas</Nav.Link>
         </Nav>
         <CartWidget />
       </Container>
